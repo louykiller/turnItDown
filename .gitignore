@@ -1,0 +1,34 @@
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Android
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/key.properties
+android/gradle/wrapper/gradle-wrapper.jar
+*.jks
+*.keystore
+.cxx/
+
+# Generated
+**/generated_plugin_registrant.*
+*.log
+.DS_Store
+Thumbs.db
+
+# Claude Code local settings
+.claude/settings.local.json
